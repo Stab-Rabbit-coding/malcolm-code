@@ -25,4 +25,4 @@ Here's the conversation:  https://claude.ai/share/a1e3900e-d2bf-4690-ba63-25178e
 
 Here's the latest design revision: https://claude.ai/public/artifacts/2ffe854e-3fdc-4efc-9c5e-52e73396950a
 
-Published under Creative Commons With Attribution by Steve Griffing, April 2026.  See documentation for incorporated components with other licences.
+Published under Creative Commons With Attribution version 4.0 by Steve Griffing, April 2026.  See documentation for incorporated components with other licences.
