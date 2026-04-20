@@ -2,7 +2,7 @@ u# malcolm-code
 i aim to misbehave
 
 
-# i like narnia and firefly
+# Serenity Drone - Can't stop the signal and can't take the sky from me
 
 here is a design for a functional, flying, tiltrotor edf drone based on Serenity, designed using Claude AI.
 
