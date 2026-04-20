@@ -6,7 +6,7 @@ i aim to misbehave
 
 here is a design for a functional, flying, tiltrotor edf drone based on Serenity, designed using Claude AI.
 
-The specifications, as of Revision D:
+The specifications, so far:
 
 2 x 70mm EFDs in the nacelles.
 1 x 40mm EFD in the fuselage.
@@ -21,4 +21,6 @@ it's networked to a raspberry cm4 with 4gb ram on a carrier board with a tpm, 2.
 
 attached to the header is a comms and recorder hat with its own tpm, 915mhz mavlink mavlink and lora radio, 49mhz rcrs time division dual simplex transceiver with dynamic channel assignment,and a tf slot for a micro sd card with hardware enforced non-executable log storage. the hat has can fd and ethernet with jst gh connectors, which allows dual routes for intra-platform network and signaling. 
 
-https://claude.ai/public/artifacts/c7c6942a-f620-4b29-b0cf-b8d04c9f12be
+Here's the conversation:  https://claude.ai/share/a1e3900e-d2bf-4690-ba63-25178e7de666
+
+Here's the latest design revision: https://claude.ai/public/artifacts/2ffe854e-3fdc-4efc-9c5e-52e73396950a
