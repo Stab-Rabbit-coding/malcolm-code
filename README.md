@@ -1,4 +1,4 @@
-# malcolm-code
+u# malcolm-code
 i aim to misbehave
 
 
@@ -20,3 +20,5 @@ the drone is controlled by a raspberry Pico 2 with a custom sensor hat with GPS,
 it's networked to a raspberry cm4 with 4gb ram on a carrier board with a tpm, 2.4ghz and 5ghz wifi and zigbee, a tf slot for an os micro SD with a forensicly sound write blocker and a pi zero 2 x 20 gpio header, with internal and sma antenna connections.
 
 attached to the header is a comms and recorder hat with its own tpm, 915mhz mavlink mavlink and lora radio, 49mhz rcrs time division dual simplex transceiver with dynamic channel assignment,and a tf slot for a micro sd card with hardware enforced non-executable log storage. the hat has can fd and ethernet with jst gh connectors, which allows dual routes for intra-platform network and signaling. 
+
+https://claude.ai/public/artifacts/c7c6942a-f620-4b29-b0cf-b8d04c9f12be
